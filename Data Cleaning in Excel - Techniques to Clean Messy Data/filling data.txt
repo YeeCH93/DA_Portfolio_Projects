@@ -1,0 +1,18 @@
+John Doe
+Programming 60
+Maths 50
+Excel 50
+
+Martin Senior
+Registration Number 10019
+Programming 60
+Excel 60
+
+Jane Rogers
+Programming 67
+Maths 56
+Excel 60
+
+Martin Junior
+Programming 57
+Excel 60
